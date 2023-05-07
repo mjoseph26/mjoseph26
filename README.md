@@ -1,5 +1,5 @@
 ## Hi there, I'm Mathew 👋
-### I am a recent Computer Science graduate currently enrolled as a software engineering consultant at Xander Talent
+### I am a software developer with a passion for building full stack applications
 
 - 🌱 I’m currently learning the fundamentals of web development.
 - 👯 I’m looking to collaborate on any project that provides an opportunity to learn something new.
