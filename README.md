@@ -12,7 +12,8 @@
 <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a><a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a><a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
 ##          
 ### Technologies I have some experience with:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="node" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 ##
 ### Projects I have worked on:
 <table>
@@ -22,20 +23,26 @@
     <th>Technologies:</th>
   </tr>
   <tr>
-    <th>Online Tea Room</th>
-    <th>A web platform for users to order different types of teas</th>
-    <th>HTML,CSS,Bootstrap,MySQL,Apache,Javascript and PHP</th>
+    <td>Tip Calculator</td>
+    <td>A web application to allow users to split bill and tip costs</td>
+    <td>HTML,CSS and JavaScript</td>
   </tr>
   <tr>
-    <th>Health Tracker</th>
-    <th>A website for users to record diet,exercise and sleep habits; get health advice; and track their habits through visualisations</th>
-    <th>HTML,CSS,Javascript,Bootstrap,MySQL,Python and Flask</th>
+    <td>Online Tea Room</td>
+    <td>A web platform for users to order different types of teas</td>
+    <td>HTML,CSS,Bootstrap,MySQL,Apache,JavaScript and PHP</td>
   </tr>
   <tr>
-    <th>Restaurant Management Application</th>
-    <th>A web and mobile application where customers can order meals and the restaurant can monitor orders, view sales statistics and customise their menu</th>
-    <th>HTML,CSS,Bootstrap,MySQL,PHP,Android,Java and Javascript</th>
+    <td>Health Tracker</td>
+    <td>A website for users to record diet,exercise and sleep habits; get health advice; and track their habits through visualisations</td>
+    <td>HTML,CSS,JavaScript,Bootstrap,MySQL,Python and Flask</td>
   </tr>
+  <tr>
+    <td>Restaurant Management Application</td>
+    <td>A web and mobile application where customers can order meals and the restaurant can monitor orders, view sales statistics and customise their menu</td>
+    <td>HTML,CSS,Bootstrap,MySQL,PHP,Android,Java and JavaScript</td>
+  </tr>
+  
 </table>
 
 ##
